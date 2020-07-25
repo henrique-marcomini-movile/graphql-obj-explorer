@@ -1,0 +1,1 @@
+# graphql-obj-explorer
